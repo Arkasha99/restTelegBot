@@ -1,1 +1,1 @@
-web: gunicorn restTelegram/wsgi.py
+web: gunicorn restTelegram.wsgi.py
